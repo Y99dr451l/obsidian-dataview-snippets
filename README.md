@@ -1,6 +1,6 @@
 ## Obsidian-dataview-snippets
 
-This repo contains some of the horrible JavaScript code I wrote to display statistics of my [Obsidian](obsidian.md) vault.
+This repo contains some of the horrible JavaScript code I wrote to display statistics of my [Obsidian](https://obsidian.md) vault.
 
 These obviously require the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) Obsidian plugin. Simply copy-paste the contents of the `.js` files into a codeblock marked with `dataviewjs` in one of your Markdown files:
 
